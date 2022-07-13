@@ -1,0 +1,1 @@
+Primeiro projeto utilizando JavaScript, projeto realizado aplicando conhecimentos adquiridos em aula, para fins somente de aprendizado e prática.
