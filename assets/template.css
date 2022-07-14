@@ -50,3 +50,24 @@ body {
 .button-area button:hover{
     box-shadow:none;
 }
+@media (max-width:650px){
+    .title {
+        font-size:30px;
+        text-align:center;
+    }
+}
+@media (max-width:329px){
+    .title {
+        font-size:20px;
+        text-align:center;
+    }
+    #counter{
+        width:280px;
+        height:280px;
+        border-radius:140px;
+    }
+    .button-area button{
+        padding:5px;
+        margin:5px;
+    }
+}
