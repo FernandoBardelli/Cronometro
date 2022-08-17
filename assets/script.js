@@ -8,6 +8,7 @@ var tempo = 1000;
 var cron;
 
 function playButton (){
+    clearInterval(cron)
     timer()
     cron = setInterval(timer,tempo);
 }
